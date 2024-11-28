@@ -99,11 +99,6 @@
         },
         {
           "assetId": "e2GgHvNkZGeWD3TYfD2fCA",
-          "type": "projectCss",
-          "checksum": "eabf6c92ba76ee069e670bf68c888e62"
-        },
-        {
-          "assetId": "e2GgHvNkZGeWD3TYfD2fCA",
           "checksum": "c43bc066726b97e851946286eee61407",
           "type": "globalContexts"
         },
@@ -496,6 +491,11 @@
           "type": "image",
           "assetId": "i7FFxiRpvNdq",
           "checksum": "545d70bcca82897f0dc393e6a254838e"
+        },
+        {
+          "assetId": "e2GgHvNkZGeWD3TYfD2fCA",
+          "type": "projectCss",
+          "checksum": "eabf6c92ba76ee069e670bf68c888e62"
         }
       ],
       "codegenVersion": "0.0.1"

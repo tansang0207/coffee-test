@@ -7,7 +7,7 @@
   },
   "style": {
     "scheme": "css-modules",
-    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
   },
   "images": {
     "scheme": "public-files",
@@ -45,7 +45,8 @@
           }
         }
       ],
-      "customFunctions": []
+      "customFunctions": [],
+      "jsBundleThemes": []
     },
     {
       "projectId": "rJmrvZ8rTbZpYCx9aXq6iH",
@@ -445,7 +446,8 @@
           "componentImportPath": "@plasmicpkgs/antd5/skinny/registerBreadcrumb"
         }
       ],
-      "customFunctions": []
+      "customFunctions": [],
+      "jsBundleThemes": []
     },
     {
       "projectId": "iJhKQQ71R9m8NWP3m4kYC9",
@@ -503,7 +505,8 @@
           "componentImportPath": "@plasmicpkgs/plasmic-basic-components"
         }
       ],
-      "customFunctions": []
+      "customFunctions": [],
+      "jsBundleThemes": []
     },
     {
       "projectId": "pCG4GgcXNZ66yjMGiq1R9h",
@@ -525,7 +528,8 @@
           "componentImportPath": "@plasmicpkgs/commerce-swell"
         }
       ],
-      "customFunctions": []
+      "customFunctions": [],
+      "jsBundleThemes": []
     },
     {
       "projectId": "k64V3t4m9vVY4M7svFXS8x",
@@ -643,7 +647,8 @@
           "componentImportPath": "@plasmicpkgs/commerce"
         }
       ],
-      "customFunctions": []
+      "customFunctions": [],
+      "jsBundleThemes": []
     },
     {
       "projectId": "e2GgHvNkZGeWD3TYfD2fCA",

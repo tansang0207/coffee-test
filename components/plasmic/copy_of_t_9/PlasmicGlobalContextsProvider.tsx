@@ -14,6 +14,7 @@ export interface GlobalContextsProviderProps {
   commerceProviderComponentProps?: Partial<
     Omit<React.ComponentProps<typeof CommerceProviderComponent>, "children">
   >;
+
   antdConfigProviderProps?: Partial<
     Omit<React.ComponentProps<typeof AntdConfigProvider>, "children">
   >;
